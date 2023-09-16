@@ -1,2 +1,2 @@
 # HousePricePredictor
-Boston House Price Predictor
+Bangalore House Price Predictor
